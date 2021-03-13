@@ -13,6 +13,6 @@ Alt + 1/2/3/4 = Destroy something
 
 Tap shift = Clear disguise
 
-Hold shift + 1-3 then 1-3 = Disguise as enemy
+(Hold shift) 1-3 then 1-3 = Disguise as enemy
 
-Hold shift + 4 then 1-3 then 1-3 = Disguise as friendly
+(Hold shift) 4 then 1-3 then 1-3 = Disguise as friendly
